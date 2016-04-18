@@ -1,0 +1,6 @@
+#This is conf file
+
+DB.JDBC.Driver=com.mysql.jdbc.Driver
+DB.url=jdbc:mysql://ashoka.vmoksha.com/esdu_dev
+user.name=esdu_user
+user.pwd=esdu_pwd
